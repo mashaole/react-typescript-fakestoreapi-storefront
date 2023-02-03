@@ -1,2 +1,11 @@
-# react-typescript-fakestoreapi-storefront
-A React typescript storefront with Cart and search functionality using Fake store api and UseReducer
+## Getting Started Instructions
+
+1. Clone this repo to your workstation.
+2. Install project libraries with the following command `npm install`
+3. Then run the following command to start project
+
+```bash
+npm run dev
+```
+
+4. Open [http://localhost:5173](http://localhost:5173/) in your browser to interact with project.

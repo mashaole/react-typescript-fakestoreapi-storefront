@@ -1,0 +1,9 @@
+header {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+header .header__logo {
+  width: 4rem;
+}
