@@ -1,3 +1,6 @@
+## Prerequisites
+- Node & NPM must be installed on your workstastation , if you dont go [here](https://nodejs.org/en/download)
+
 ## Getting Started Instructions
 
 1. Clone this repo to your workstation.
